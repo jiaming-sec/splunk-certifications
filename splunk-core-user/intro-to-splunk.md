@@ -18,4 +18,4 @@ Shared search jobs remain active for **7 days**.
 
 ## Exploring Events
 
-Events are returned in reverse chronological order
+Events are returned in reverse chronological order (showing the newest event first).
