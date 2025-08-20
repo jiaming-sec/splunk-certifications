@@ -4,5 +4,5 @@
 
 ## Using Search
 
-**Commands that create statistics and visualizations are called** transforming commands**.
+Commands that create statistics and visualizations are called **transforming commands**.
 
