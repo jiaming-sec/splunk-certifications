@@ -12,6 +12,6 @@ Shared search jobs remain active for **7 days**.
 
 3 search mode:
 
-- Fast 
+- Fast: Field idscovery is disabled in Fast mode 
 - Smart 
 - Verbose
