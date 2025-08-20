@@ -17,3 +17,5 @@ Shared search jobs remain active for **7 days**.
 - Verbose
 
 ## Exploring Events
+
+Events are returned in reverse chronological order
