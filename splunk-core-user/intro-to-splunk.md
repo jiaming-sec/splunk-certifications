@@ -15,3 +15,5 @@ Shared search jobs remain active for **7 days**.
 - Fast: Field idscovery is disabled in Fast mode 
 - Smart 
 - Verbose
+
+## Exploring Events
